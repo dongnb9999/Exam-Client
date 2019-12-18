@@ -1,0 +1,14 @@
+C:\Users\Quoc Anh\source\repos\Exam_EAP\Exam_EAP\obj\Debug\Exam_EAP.csprojAssemblyReference.cache
+C:\Users\Quoc Anh\source\repos\Exam_EAP\Exam_EAP\obj\Debug\Exam_EAP.csproj.CoreCompileInputs.cache
+C:\Users\Quoc Anh\source\repos\Exam_EAP\Exam_EAP\bin\Exam_EAP.dll.config
+C:\Users\Quoc Anh\source\repos\Exam_EAP\Exam_EAP\bin\Exam_EAP.dll
+C:\Users\Quoc Anh\source\repos\Exam_EAP\Exam_EAP\bin\Exam_EAP.pdb
+C:\Users\Quoc Anh\source\repos\Exam_EAP\Exam_EAP\bin\EntityFramework.dll
+C:\Users\Quoc Anh\source\repos\Exam_EAP\Exam_EAP\bin\EntityFramework.SqlServer.dll
+C:\Users\Quoc Anh\source\repos\Exam_EAP\Exam_EAP\bin\EntityFramework.xml
+C:\Users\Quoc Anh\source\repos\Exam_EAP\Exam_EAP\bin\EntityFramework.SqlServer.xml
+C:\Users\Quoc Anh\source\repos\Exam_EAP\Exam_EAP\obj\Debug\Exam_EAP.csproj.CopyComplete
+C:\Users\Quoc Anh\source\repos\Exam_EAP\Exam_EAP\obj\Debug\Exam_EAP.dll
+C:\Users\Quoc Anh\source\repos\Exam_EAP\Exam_EAP\obj\Debug\Exam_EAP.pdb
+C:\Users\Quoc Anh\source\repos\Exam_EAP\Exam_EAP\obj\Debug\Exam_EAP.Migrations.seeder.resources
+C:\Users\Quoc Anh\source\repos\Exam_EAP\Exam_EAP\obj\Debug\Exam_EAP.csproj.GenerateResource.cache
